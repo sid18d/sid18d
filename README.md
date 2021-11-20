@@ -45,3 +45,6 @@
   <a href="https://github.com/sid18d/github-readme-stats"><img alt="Sid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid18d&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <p align="centre"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
