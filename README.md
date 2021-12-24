@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing and Computer Vision Projects**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m looking forward to learn **Blockchain**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
