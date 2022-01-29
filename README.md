@@ -54,7 +54,9 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <p align="centre"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+  ![Alt Text](https://insider.knplabs.com/wp-content/uploads/2015/09/CNFLc3IWEAAJgws-1.gif)
 
 <a href="https://www.buymeacoffee.com/sid18d" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+ 
+ 
