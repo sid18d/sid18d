@@ -1,5 +1,5 @@
   <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I’m Sid </h1>
-<h3 align="center">I'm a passionate self-taught Data Science & Machine Learning Enthusiast from India.</h3>
+<h3 align="center">I'm a passionate Data Science & Machine Learning Enthusiast from India.</h3>
 
 
 
