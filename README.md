@@ -28,7 +28,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://img.icons8.com/windows/32/000000/kaggle.png"/></code>
+<code><img height="30" src="https://img.icons8.com/windows/32/000000/typescript.png"/></code>
 <code><img height="30" src="https://img.icons8.com/windows/32/000000/amazon-web-services.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
